@@ -1,4 +1,4 @@
-# Logestic-Regressor-With-All-Three-Batch-Stochastic-and-Mini-Batch-Gradient-Descent
+# Logistic-Regressor-With-All-Three-Batch-Stochastic-and-Mini-Batch-Gradient-Descent
 I have implemented Logestic Regression for Binary classification from scratch with all three types of gradient descent.<br/>
 
 ===> main.ipynb is the notebook file that contains the implementation of the Logestic Regressor<br/>
